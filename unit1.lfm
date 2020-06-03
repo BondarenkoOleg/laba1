@@ -1,0 +1,46 @@
+object Form1: TForm1
+  Left = 1002
+  Height = 190
+  Top = 235
+  Width = 337
+  Caption = 'Form1'
+  ClientHeight = 190
+  ClientWidth = 337
+  DesignTimePPI = 101
+  LCLVersion = '2.0.6.0'
+  object Edit1: TEdit
+    Left = 10
+    Height = 36
+    Top = 10
+    Width = 324
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object SeasonButton: TButton
+    Left = 8
+    Height = 32
+    Top = 56
+    Width = 326
+    Caption = 'Пора року'
+    OnClick = SeasonButtonClick
+    TabOrder = 1
+  end
+  object RandomButton: TButton
+    Left = 8
+    Height = 32
+    Top = 96
+    Width = 326
+    Caption = 'Випадкове число'
+    OnClick = RandomButtonClick
+    TabOrder = 2
+  end
+  object AddButton: TButton
+    Left = 8
+    Height = 32
+    Top = 136
+    Width = 326
+    Caption = 'Додати'
+    OnClick = AddButtonClick
+    TabOrder = 3
+  end
+end

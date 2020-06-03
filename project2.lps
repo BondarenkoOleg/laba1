@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="project2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="22" Y="9"/>
+        <UsageCount Value="20"/>
+        <Bookmarks Count="1">
+          <Item0 X="15" Y="9" ID="9"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="project2.lpr"/>
+        <Caret Line="3" Column="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="project2.lpr"/>
+        <Caret Line="7" Column="34"/>
+      </Position2>
+      <Position3>
+        <Filename Value="project2.lpr"/>
+        <Caret Line="3" Column="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="project2.lpr"/>
+        <Caret Line="5" Column="19"/>
+      </Position4>
+      <Position5>
+        <Filename Value="project2.lpr"/>
+        <Caret Line="7" Column="51"/>
+      </Position5>
+      <Position6>
+        <Filename Value="project2.lpr"/>
+        <Caret Line="9" Column="10"/>
+      </Position6>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="1" ActiveMode="default">
+        <Mode0 Name="default">
+          <local>
+            <LaunchingApplication Use="True" PathPlusParams="/usr/bin/konsole -T 'Lazarus Run Output' -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+          </local>
+        </Mode0>
+      </Modes>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
